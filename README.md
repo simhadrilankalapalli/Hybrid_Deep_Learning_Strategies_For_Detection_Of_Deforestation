@@ -1,1 +1,1 @@
-# Hybrid-Deep-Learning-Strategies-for-Detection-of-Deforestation
+A deep learning-based project focused on detecting deforestation using a hybrid approach that combines the strengths of MobileNet and Random Forest. Designed to enhance accuracy and efficiency in analyzing satellite imagery for environmental monitoring.
