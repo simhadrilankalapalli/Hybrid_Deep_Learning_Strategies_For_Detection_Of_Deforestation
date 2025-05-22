@@ -1,7 +1,10 @@
 A deep learning-based project focused on detecting deforestation using a hybrid approach that combines the strengths of MobileNet and Random Forest. Designed to enhance accuracy and efficiency in analyzing satellite imagery for environmental monitoring.
 
+
+Home Page:
+
 ![image](https://github.com/user-attachments/assets/d148b0b8-014c-4038-8d4e-5da774b1d786)
-Home Page
+
 
 
 ![image](https://github.com/user-attachments/assets/f7180fb0-360b-4626-9fbb-3f3bb3e0ddaf)
