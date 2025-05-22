@@ -4,7 +4,7 @@ A deep learning-based project focused on detecting deforestation using a hybrid 
 
 Home Page:
 
-![image](https://github.com/user-attachments/assets/d148b0b8-014c-4038-8d4e-5da774b1d786)
+![home page](https://github.com/user-attachments/assets/e5ff9512-d068-408d-b82e-8703a3c16ee4)
 
 
 
